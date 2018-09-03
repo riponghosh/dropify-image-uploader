@@ -1,3 +1,4 @@
+https://www.jqueryscript.net/form/jQuery-Plugin-To-Beautify-File-Inputs-with-Custom-Styles-Dropify.html
 ![Dropify](src/images/cover.jpg)
 
 Dropify
